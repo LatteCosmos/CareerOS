@@ -22,12 +22,12 @@ A high-fidelity mobile app prototype helping international IT Master's students 
 
 ## 🚀 Getting Started
 
-\`\`\`bash
+```bash
 npm install
 npm run dev
-\`\`\`
+```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser.
+Open http://localhost:5173 in your browser.
 
 ## 📖 Background
 
