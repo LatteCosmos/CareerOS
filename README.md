@@ -4,7 +4,7 @@
 
 A high-fidelity mobile app prototype helping international IT Master's students at Australian universities accelerate their transition into junior developer roles.
 
-**[Live Demo →](https://career-os-pink.vercel.app/)** 
+**👉 [Click here to try CareerOS live](https://career-os-pink.vercel.app/) 👈**
 
 ## ✨ Features
 
