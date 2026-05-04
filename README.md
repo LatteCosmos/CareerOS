@@ -31,7 +31,17 @@ Open http://localhost:5173 in your browser.
 
 ## 📖 Background
 
-Built as part of the Design Thinking project for **32557 Enabling Enterprise Information Systems** at UTS, Autumn 2026.
+Built as the Design Thinking project for **32557 Enabling Enterprise 
+Information Systems** at UTS, Autumn 2026.
+
+**My role:** Sole developer of the working prototype. Translated the 
+team's conceptual design (personas, journey map, value flow) into a 
+fully interactive React application with 12 screens covering all four 
+core modules.
+
+**Team:** 5 members — I was responsible for problem definition, 
+stakeholder analysis, persona/journey mapping, all presentation slides, 
+and the entire prototype implementation.
 
 ## 👤 Author
 
